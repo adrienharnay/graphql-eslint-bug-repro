@@ -1,0 +1,4 @@
+{
+  "schema": "https://api.tcgdex.net/v2/graphql",
+  "documents": "gql/*.gql"
+}

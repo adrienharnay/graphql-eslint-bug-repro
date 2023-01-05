@@ -1,0 +1,16 @@
+{
+  "name": "graphql-eslint-bug-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adrien HARNAY <adrien@harnay.me>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@graphql-eslint/eslint-plugin": "3.14.3",
+    "eslint": "8.31.0",
+    "graphql": "16.6.0"
+  },
+  "scripts": {
+    "lint": "eslint ./gql --max-warnings 0 --ext .gql"
+  }
+}

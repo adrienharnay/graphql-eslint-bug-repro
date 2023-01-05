@@ -1,0 +1,6 @@
+query invalidCards {
+  invalidCards {
+    id
+    name
+  }
+}

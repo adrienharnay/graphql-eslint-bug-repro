@@ -1,0 +1,6 @@
+query cards {
+  cards {
+    id
+    name
+  }
+}
